@@ -161,5 +161,6 @@ public class HelloFrame extends javax.swing.JFrame {
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
     private javax.swing.JLabel text;
+    private javax.swing.JLabel text1;
     // End of variables declaration//GEN-END:variables
 }
